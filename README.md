@@ -4,6 +4,4 @@
 - :round_pushpin: Based in Lancaster, CA
 
 Languages & Tools
-JavaScript React HTML CSS Git VSCode Axios
-
-Node Express MySQL PostgreSQL MongoDB webpack
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
