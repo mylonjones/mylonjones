@@ -1,6 +1,7 @@
 ### Hi there, I'm Mylon Jones 👋
  
-- 🔭 I’m currently a job seeking Softwere Engineer 
+- 🔭 I’m a job seeking Softwere Engineer 
+- 🕹️ I like to make things more interactive
 - :round_pushpin: Based in Lancaster, CA
 
 Languages & Tools
