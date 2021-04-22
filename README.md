@@ -1,6 +1,6 @@
 ### Hi there, I'm Mylon Jones 👋
  
-- 🔭 I’m a job seeking Softwere Engineer 
+- 🔭 I’m a Softwere Engineer (Specialized in Web Development)
 - 🕹️ I like to make things more interactive
 - :round_pushpin: Based in Lancaster, CA
 
