@@ -2,7 +2,7 @@
  
 - 🔭 I’m a Softwere Engineer (Specialized in Web Development)
 - 🕹️ I like to make things more interactive
-- :round_pushpin: Based in Lancaster, CA
+- :round_pushpin: Based in Maryville, TN
 
 Languages & Tools
 
